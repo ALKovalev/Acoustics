@@ -1,0 +1,20 @@
+D:\projects\ac\WindowsFormsApp1\obj\Debug\Main.csprojAssemblyReference.cache
+D:\projects\ac\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\projects\ac\WindowsFormsApp1\obj\Debug\Main.Properties.Resources.resources
+D:\projects\ac\WindowsFormsApp1\obj\Debug\Main.csproj.GenerateResource.cache
+D:\projects\ac\WindowsFormsApp1\obj\Debug\Main.csproj.CoreCompileInputs.cache
+D:\projects\ac\WindowsFormsApp1\bin\Debug\Распространение радиоволн в однородной среде с плоской границей.exe.config
+D:\projects\ac\WindowsFormsApp1\bin\Debug\Распространение радиоволн в однородной среде с плоской границей.exe
+D:\projects\ac\WindowsFormsApp1\bin\Debug\Распространение радиоволн в однородной среде с плоской границей.pdb
+D:\projects\ac\WindowsFormsApp1\obj\Debug\Распространение радиоволн в однородной среде с плоской границей.exe
+D:\projects\ac\WindowsFormsApp1\obj\Debug\Распространение радиоволн в однородной среде с плоской границей.pdb
+D:\Main\VS projects\bachelor projects\ac\WindowsFormsApp1\bin\Debug\Распространение радиоволн в однородной среде с плоской границей.exe.config
+D:\Main\VS projects\bachelor projects\ac\WindowsFormsApp1\bin\Debug\Распространение радиоволн в однородной среде с плоской границей.exe
+D:\Main\VS projects\bachelor projects\ac\WindowsFormsApp1\bin\Debug\Распространение радиоволн в однородной среде с плоской границей.pdb
+D:\Main\VS projects\bachelor projects\ac\WindowsFormsApp1\obj\Debug\Main.csprojAssemblyReference.cache
+D:\Main\VS projects\bachelor projects\ac\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Main\VS projects\bachelor projects\ac\WindowsFormsApp1\obj\Debug\Main.Properties.Resources.resources
+D:\Main\VS projects\bachelor projects\ac\WindowsFormsApp1\obj\Debug\Main.csproj.GenerateResource.cache
+D:\Main\VS projects\bachelor projects\ac\WindowsFormsApp1\obj\Debug\Main.csproj.CoreCompileInputs.cache
+D:\Main\VS projects\bachelor projects\ac\WindowsFormsApp1\obj\Debug\Распространение радиоволн в однородной среде с плоской границей.exe
+D:\Main\VS projects\bachelor projects\ac\WindowsFormsApp1\obj\Debug\Распространение радиоволн в однородной среде с плоской границей.pdb
